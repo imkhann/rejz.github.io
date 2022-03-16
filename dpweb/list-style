@@ -1,0 +1,19 @@
+<html>
+	<head>
+	<title>Soal 04</title>
+		<style type=text/css>
+		h3,li {font-family: 'Times New Roman';
+            list-style-image: url(file://C:/Users/User/Downloads/4square.html);
+            font-size: 25px;       
+		    font-weight:bold;
+		   }
+	    </style>
+	</head>
+    <body>
+	    <h3>Fakultas Ilmu Komputer</h3>
+	    <ol>
+	    <li>Sistem Informasi</li>
+	    <li>Sistem Komputer</li>
+	    </ol>
+    </body>
+</html>
